@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>Hello! My name is Dylan Andes.</h1>
+<h1>Hello! My name is Dylan Andes(they/them).</h1>
 <p>I am an aspiring Software Engineer. I've uploaded a few independent projects onto this page.</p>
 
 
